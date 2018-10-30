@@ -5,6 +5,8 @@ linters:
   BorderZero:
     enabled: true
     convention: zero
+    ( '=''or')
+(%' or '0'='0)
 
   BemDepth:
     enabled: true
